@@ -7,6 +7,8 @@ Farmers need to grow more with less water, fertilizers, and manual labour. Curre
 Farmers who are the backbone of our society often live on the edge of poverty. The average U.S. poultry grower takes out nearly $700,000 in loans, using their home and land as collateral for insurance, yet their median net income is a mere $13,140. The suicide rate among US farmers is, on average, 3.5 times that of the general population. As developers,  need to step in and provide farmers with a solution. Achieving this environmental goal means increasing the availability of nutritious food, making food more affordable and reducing inequities in access to food.
 
 ## HOW WE BUILD IT 
+
+![](https://github.com/lucylow/farmernet_IOT/blob/main/Images/Screen%20Shot%202021-05-24%20at%204.33.57%20PM.png)
 Farmer net is the solution. The future of farming with computer vision precision agriculture. The IoT solution include smart tractors, aerial drones, and green houses collecting data providing actionable insights for farmers everywhere. We can collect real-time data capture rich information using cameras and machine learning create real-time insights an automated action without farmers intervention. 
 
 IoT greenhouse as shown on the right we have digital control temperature with 220 Volt automatic irrigation water pump for watering the plants humidity pH and CO2 sensor with digital display. Innovative smart tractor includes code remote control and sensors for data collection, 4 wheel motor, drive with a microcontroller USB board, we have infrared motor control with Bluetooth, PS2 handles,  two arm servos, ultrasonic infrared sensors, and cameras for obstacle avoidance and infrared tracking.
